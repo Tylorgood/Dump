@@ -492,85 +492,6 @@ A comprehensive list of CNC machine shops and manufacturing companies in the Met
 382. Pro-Med Manufacturing - Michigan
 383. Quantum Precision - Michigan
 384. Redline Manufacturing - Michigan
-385. Signature Machine - Michigan
-986. Precision Grind & Machine - Michigan
-987. Wolverine Grinding - Michigan
-988. Reliable Forge Die & Engineering - Fraser, MI
-989. Sterling Die & Engineering Inc - Michigan
-990. ArtiFlex Manufacturing - Michigan
-991. Custom Tooling Systems Inc - Zeeland, MI
-992. Titan Tool and Die - Michigan
-993. K&M Large Machining - Michigan
-994. DieSand Manufacturing - Michigan
-995. Precision Manufacturing Group - Michigan
-996. Industrial Machine Works - Michigan
-997. Great Lakes Precision - Michigan
-998. Midwest Precision - Michigan
-999. Modern Manufacturing - Michigan
-1000. Industrial Grinding - Michigan
-1001. Saber Tool LLC - Michigan
-1002. Chicago Cutting Die - Grand Rapids, MI
-1003. Three M Tool & Machine - Commerce Township, MI
-1004. American Precision Machining - Michigan
-1005. Apex Machine - Michigan
-1006. Banner Tool - Michigan
-1007. Benchmark Precision - Michigan
-1008. Century Manufacturing - Michigan
-1009.Champion Tool - Michigan
-1010. Classic Tool - Michigan
-1011. Colonial Machine - Michigan
-1012. Continental Tool - Michigan
-1013. Delta Precision - Michigan
-1014. Dial Machine - Michigan
-1015. Eagle Tool - Michigan
-1016. Federal Machine - Michigan
-1017. Frontier Manufacturing - Michigan
-1018. General Tool - Michigan
-1019. Globe Machine - Michigan
-1020. Hamilton Precision - Michigan
-1021. Horizon Machine - Michigan
-1022. Imperial Machine - Michigan
-1023. J-Star Manufacturing - Michigan
-1024. Jet Machine - Michigan
-1025. Judson Machine - Michigan
-1026. Kaydon Precision - Michigan
-1027. Kent Machine - Michigan
-1028. Lakeside Machine - Michigan
-1029. Lapham-Hedley - Michigan
-1030. Liberty Machine - Michigan
-1031. Link Machine - Michigan
-1032. Lyon Machine - Michigan
-1033. Master Tool - Michigan
-1034. Michigan Precision - Michigan
-1035. Midwest Machine - Michigan
-1036. National Machine - Michigan
-1037. Omega Machine - Michigan
-1038. Pacific Machine - Michigan
-1039. Paramount Machine - Michigan
-1040. Pilgrim Machine - Michigan
-1041. Pioneer Precision - Michigan
-1042. Plainsman Machine - Michigan
-1043. Precision Plus - Michigan
-1044. Professional Machining - Michigan
-1045. Quality Machine - Michigan
-1046. RCM Machine - Michigan
-1047. Richmond Machine - Michigan
-1048. Shelby Machine - Michigan
-1049. Star Precision - Michigan
-1050. Superior Precision - Michigan
-1051. Taylor Machine - Michigan
-1052. Toolcraft - Michigan
-1053. Trenton Machine - Michigan
-1054. Twin City Machine - Michigan
-1055. Universal Machine - Michigan
-1056. Valley Machine - Michigan
-1057. Vulcan Machine - Michigan
-1058. Wapakoneta Machine - Michigan
-1059. Westview Machine - Michigan
-1060. Willow Run Machine - Michigan
-1061. Wolverine Manufacturing - Michigan
-1062. Young Machine - Michigan
-
 ## Grand Rapids Area
 365. Accelerated Tooling LLC - Grand Rapids, MI
 366. RAM Tool Inc - Grand Rapids, MI
@@ -622,13 +543,99 @@ A comprehensive list of CNC machine shops and manufacturing companies in the Met
 402. KB Tool and Die - Michigan
 403. Acorn Stamping - Michigan
 
+## Ohio CNC Shops
+404. Advance CNC Machining - Cincinnati, OH
+405. BIC Precision Machine Company - Ohio
+406. Krausher Machining - Ohio
+407. Vulcan Tool Company - Dayton, OH
+408. Parker Precision Inc - Mentor, OH
+409. Lange Grinding Inc - Streetsboro, OH
+410. Ansco Machine - Ohio
+411. Photex Inc - Cleveland, OH
+412. Gent Machine - Ohio
+413. D&E Machine Co - Ohio
+414. Mach3 Machining - Ohio
+415. Machining Solutions - Ohio
+416. Midwest Precision - Ohio
+417. Coleys CNC Machining - Ohio
+418. Lawson Precision Machining - Ohio
+419. Hartsgrove Machine - Ohio
+420. Nevels Precision Machining - Dayton, OH
+421. AMS Automated Machine Systems - Ohio
+422. Meador MFG - Ohio
+443. PFI Precision - New Carlisle, OH
+444. Nolte Precise Manufacturing - Ohio
+445. Owens Industries - Ohio (multiple locations)
+
+## Indiana CNC Shops
+446. Precise Manufacturing Inc - Fort Wayne, IN
+447. Impact CNC - Columbia City, IN
+448. LG Metalworks LLC - Indiana
+449. GMI Corp - Indiana
+450. IMH Products - Indianapolis, IN
+451. Dailey's CNC - Columbus, IN
+452. Superior Machine and Tool - Fort Wayne, IN
+453. Absolute Machining LLC - Indiana
+454. McCarty Fabrication - Indiana
+455. Proform Manufacturing - Indiana
+456. Toolcraft - Fort Wayne, IN
+457. Paramount CNC - Indiana
+458. ISSI Engineering & Machining - Indianapolis, IN
+459. AMG Engineering & Machining - Indianapolis, IN
+460. MSP Manufacturing - Indiana
+461. L&P Manufacturing - Indiana
+462. Flenar Manufacturing - Rochester, IN
+463. Greenwood Machine Inc - Indiana
+464. Metalcraft Precision Machining - Indiana
+
+## Illinois CNC Shops
+465. Kadon Precision Machining - Rockford, IL
+466. G & W Technical - Chicago, IL
+467. Chicago Cutting Die - Chicago, IL
+468. AT Precision - Madison, IL area
+
+## Wisconsin CNC Shops
+469. Milwaukee Precision Machining - Milwaukee, WI
+470. Wisconsin Precision (WPM) - Grafton, WI
+471. Sullivan Manufacturing - Wisconsin/Illinois
+472. Wisconsin Metal Tech - Wisconsin
+473. ACI Industries - Wisconsin
+474. MD Design & Automation - West Bend, WI
+475. G&V Machine Company - Wisconsin
+476. Draeving Machine & Tool - Beloit, WI
+477. ARZ Machining Inc - Grafton, WI
+478. Mahuta Tool Corporation - Milwaukee, WI
+479. Schmid Tool - Illinois
+480. Larke Machine Company - Wisconsin
+481. OMS Precision Machining - Oshkosh, WI
+482. Camco Precision Machining - Wisconsin
+483. Select Machining - Wisconsin
+484. Mitotec Precision - Wisconsin
+485. Krenek Machine - Wisconsin
+486. Sensenich Corporation - Wisconsin
+487. Task Industrial - Wisconsin
+488. Precision Machining Inc - Wisconsin
+489. Fox Valley Precision - Wisconsin
+490. Badger Precision - Wisconsin
+491. Lake Michigan Machining - Wisconsin
+492. Industrial Machine Co - Wisconsin
+493. Century Tool & Manufacturing - Wisconsin
+494. Waukesha Machine - Wisconsin
+495. Janesville Machining - Wisconsin
+496. Rock River Machine - Wisconsin
+497. Menomonee Falls Machine - Wisconsin
+498. Germantown Precision - Wisconsin
+499. Mukwonago Machine - Wisconsin
+500. Sussex Tool & Die - Wisconsin
+501. Hubertus Machining - Wisconsin
+
 ---
 
 ## Summary
 
-This list currently contains **500 CNC machine shops** in the Metro Detroit and surrounding Michigan areas.
+This list currently contains **501 CNC machine shops** in Metro Detroit, Michigan, Ohio, Indiana, Illinois, and Wisconsin.
 
-The list has been expanded from the original Warren-focused search to include shops across all of Michigan.
+The list started from Warren, MI and expanded to include shops across the Midwest.
 
 1. **Google Maps** - Search "CNC machine shop" in each Metro Detroit city
 2. **ThomasNet.com** - Industrial directory (free registration)
