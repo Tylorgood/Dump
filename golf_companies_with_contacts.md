@@ -29,19 +29,14 @@
 
 | # | Business Name | Address | Phone | Email | Contact |
 |---|---------------|---------|-------|-------|---------|
-| 10 | Fieldstone Golf Club | 900 N Adams Rd, Auburn Hills, MI 48326 | (248) 364-6900 | - | - |
-| 11 | Tanglewood Golf Club | 23600 Tanglewood Trl, South Lyon, MI 48178 | (248) 437-9172 | - | - |
-| 12 | Farmington Hills Golf Club | 34735 W 10 Mile Rd, Farmington Hills, MI 48335 | (248) 477-9660 | - | - |
-| 13 | Royal Oak Golf Center | 401 S Washington Ave, Royal Oak, MI 48067 | (248) 549-GOLF | - | - |
-| 14 | Royal Oak Golf Club | 3089 S Washington Ave, Royal Oak, MI 48067 | (248) 585-0100 | - | - |
-| 15 | Sanctuary Lake Golf Course | 6700 Old Pontiac Trl, Troy, MI 48098 | (248) 689-3655 | - | - |
+| 15 | Sanctuary Lake Golf Course | 6700 Old Pontiac Trl, Troy, MI 48098 | (248) 689-3655 | info@sanctuarylake.com | - |
 | 16 | Sylvan Glen Golf Course | 5700 N Adams Rd, Troy, MI 48098 | (248) 689-5393 | - | - |
 | 17 | Beacon Hill Golf Club | 6201 Williams Lake Rd, Commerce Township, MI 48382 | (248) 360-1000 | - | - |
 | 18 | Glen Oaks Golf Course | 3050 Voorheis Rd, Rochester, MI 48307 | (248) 858-7900 | - | - |
 | 19 | Lyon Oaks Golf Course | 57300 10 Mile Rd, Wixom, MI 48377 | (248) 956-0500 | - | - |
 | 20 | Red Oaks Golf Course | 350 W 14 Mile Rd, Madison Heights, MI 48071 | (248) 541-5030 | - | - |
 | 21 | Twin Lakes Golf Club | 900 Twin Lake Dr, Oakland, MI 48363 | (248) 693-5070 | - | - |
-| 22 | Oakland Hills Country Club | 3951 W Maple Rd, Bloomfield Hills, MI 48301 | (248) 644-4100 | - | - |
+| 22 | Oakland Hills Country Club | 3951 W Maple Rd, Bloomfield Hills, MI 48301 | (248) 644-4100 | memberservices@oaklandhills.com | - |
 | 23 | WestWynd Golf Course | 6655 Greenshire Dr, Oakland Township, MI 48306 | (248) 608-7830 | - | - |
 | 24 | Shepherds Hollow Golf Club | 7800 Brooks School Rd, Clarkston, MI 48348 | (248) 625-3500 | - | - |
 | 25 | Brentwood Golf Club | 40300 Brentwood Dr, Troy, MI 48085 | (248) 689-6000 | - | - |
@@ -61,8 +56,8 @@
 | 34 | Hickory Hollow Golf Club | 45600 North Ave, Macomb, MI 48042 | (586) 469-8200 | - | - |
 | 35 | Timberwood Golf Club | 55030 Shelby Rd, Macomb, MI 48042 | (586) 781-4000 | - | - |
 | 36 | Salt River Country Club | 24600 Salt River Rd, Chesterfield, MI 48047 | (586) 749-3700 | - | - |
-| 37 | Fern Hill Golf Club | 17177 15 Mile Rd, Clinton Township, MI 48035 | (586) 792-3000 | - | - |
-| 38 | Cherry Creek Golf Club | 52000 Cherry Creek Dr, Shelby Township, MI 48316 | (586) 254-7700 | - | - |
+| 37 | Fern Hill Golf Club | 17177 15 Mile Rd, Clinton Township, MI 48035 | (586) 792-3000 | info@fernhillgc.com | - |
+| 38 | Cherry Creek Golf Club | 52000 Cherry Creek Dr, Shelby Township, MI 48316 | (586) 254-7700 | info@cherrycreekgolf.com | - |
 | 39 | Lake St. Clair Metropark Golf | 31300 Metro Pkwy, Mount Clemens, MI 48045 | (586) 463-4588 | - | - |
 
 ## ANN ARBOR / WASHTENAW COUNTY
@@ -73,11 +68,13 @@
 | 41 | Huron Hills Golf Course | 3465 E Huron River Dr, Ann Arbor, MI 48105 | (734) 668-8020 | - | - |
 | 42 | Leslie Park Golf Course | 2120 Traver Blvd, Ann Arbor, MI 48105 | (734) 668-8010 | - | - |
 | 43 | Lake Forest Golf Club | 3089 S State Rd, Ann Arbor, MI 48104 | (734) 665-0200 | - | - |
-| 44 | University of Michigan Golf Course | 2651 Lurenbaker Dr, Ann Arbor, MI 48108 | (734) 998-9100 | - | - |
-| 45 | Washtenaw Golf Club | 5200 Washtenaw Ave, Ypsilanti, MI 48197 | (734) 434-3100 | - | - |
+| 44 | University of Michigan Golf Course | 2651 Lurenbaker Dr, Ann Arbor, MI 48108 | (734) 998-9100 | umgolfcourse@umich.edu | - |
+| 45 | Washtenaw Golf Club | 5200 Washtenaw Ave, Ypsilanti, MI 48197 | (734) 434-3100 | info@washtenawgolfclub.com | - |
 | 46 | Pine View Golf Course | 2150 N Prospect Rd, Ypsilanti, MI 48198 | (734) 485-7500 | - | - |
 | 47 | Green Oaks Golf Course | 21300 Whitmore Lake Rd, Green Oak, MI 48189 | (734) 449-5900 | - | - |
-| 48 | Ann Arbor Golf & Outing Club | 2125 S Stadium Blvd, Ann Arbor, MI 48104 | (734) 994-2440 | - | - |
+| 48 | Ann Arbor Golf & Outing Club | 2125 S Stadium Blvd, Ann Arbor, MI 48104 | (734) 994-2440 | info@aagoc.org | Derek Howe (GM) |
+| 49 | Radrick Farms Golf Course | 5000 Geddes Rd, Ann Arbor, MI 48104 | (734) 998-7040 | radrick1965@umich.edu | - |
+| 50 | Polo Fields Golf & Country Club | 4725 Polo Fields Dr, Ann Arbor, MI 48103 | (734) 998-1555 | kevin@polofieldsccmi.com | Kevin Osworth (VP) |
 
 ## WINDSOR / ONTARIO CANADA
 
@@ -103,6 +100,7 @@
 | 61 | The Links at Hunters Ridge | 9500 E M-36, Howell, MI 48855 | (517) 545-4653 | - | - |
 | 62 | Dunham Hills Golf Club | 9240 Jacobs Rd, Hartland, MI 48353 | (248) 887-9170 | - | - |
 | 63 | Kensington Metropark Golf | 6100 Kensington Rd, Brighton, MI 48116 | (810) 227-8916 | - | - |
+| 64 | Walnut Creek Country Club | 25501 Johns Rd, South Lyon, MI 48178 | (248) 437-7337 | kevin@walnutcreekcc.net | Kevin Kremer (GM) |
 
 ## TOLEDO / NORTHWEST OHIO
 
@@ -116,12 +114,13 @@
 | 69 | Inverness Club | 4601 Dorr St, Toledo, OH 43615 | (419) 536-5200 | - | - |
 | 70 | Valleywood Golf Club | 17220 Gander Rd, Swanton, OH 43558 | (419) 826-5501 | - | - |
 | 71 | Eagle's Landing Golf Club | 5530 Bay Shore Rd, Oregon, OH 43618 | (419) 697-4653 | - | - |
+| 72 | Troy Country Club | 1830 Peters Rd, Troy, OH 45373 | (937) 335-1328 | phil@troycountryclub.net | Phil Zwierzchowski (GM) |
 
 ## LANSING / MID-MICHIGAN
 
 | # | Business Name | Address | Phone | Email | Contact |
 |---|---------------|---------|-------|-------|---------|
-| 72 | Forest Akers Golf Courses | 3535 Forest Rd, Lansing, MI 48910 | (517) 355-1635 | golf@msu.edu | - |
+| 72 | Forest Akers Golf Courses | 3535 Forest Rd, Lansing, MI 48910 | (517) 355-1635 | harri524@msu.edu | Bryan Harris (GM) |
 | 73 | Groesbeck Golf Course | 1523 E Cesar E Chavez Ave, Lansing, MI 48906 | (517) 483-4333 | - | - |
 | 74 | Country Club of Lansing | 3550 N Elm Ave, Lansing, MI 48906 | (517) 484-5781 | - | - |
 | 75 | Waverly Hills Golf Course | 3619 W Saginaw St, Lansing, MI 48917 | (517) 323-1986 | - | - |
@@ -142,6 +141,7 @@
 | 85 | The Legacy Golf Club | 7677 US 223, Ottawa Lake, MI 49267 | (734) 854-1101 | - | - |
 | 86 | The Links at Lake Erie | 2625 N Stony Creek Rd, Monroe, MI 48161 | (734) 289-6000 | - | - |
 | 87 | Carrington Golf Club | 1500 N Dixie Hwy, Monroe, MI 48162 | (734) 457-6300 | - | - |
+| 88 | Fellows Creek Golf Club | 2936 Lotz Rd, Canton, MI 48188 | (734) 728-1300 | info@fellowscreekgolf.com | Jeff LeBlanc (GM) |
 
 ## PORT HURON / ST. CLAIR COUNTY
 
@@ -163,6 +163,7 @@
 | 96 | Arbor Hills Golf Club | 1426 Arbor Hills Rd, Jackson, MI 49201 | (517) 750-1400 | - | - |
 | 97 | Grande Golf Club | 1579 Floyd Ave, Jackson, MI 49203 | (517) 768-9494 | - | - |
 | 98 | Lakeland Hills Golf Course | 6400 Ann Arbor Rd, Jackson, MI 49201 | (517) 764-3000 | - | - |
+| 99 | Hickory Creek Golf Course | 3625 Napier Rd, Ypsilanti, MI 48198 | (734) 454-1850 | - | John Speer (Manager) |
 
 ## ADRIAN / LENAWEE COUNTY
 
@@ -183,6 +184,7 @@
 | 106 | Bay City Country Club | 2300 Country Club Dr, Essexville, MI 48732 | (989) 778-1162 | - | - |
 | 107 | Bay Valley Resort Golf | 4944 N Bay City Rd, Bay City, MI 48706 | (989) 686-3500 | - | - |
 | 108 | White Birch Hills Golf Course | 5400 N Euclid Ave, Bay City, MI 48706 | (989) 684-5600 | - | - |
+| 109 | Boulder Pointe Golf Club | 1 Champions Circle, Oxford, MI 48371 | (248) 969-1500 | boulderpointe@boulderpointe.net | - |
 
 ## GRAND RAPIDS / MUSKEGON
 
